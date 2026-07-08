@@ -23,16 +23,6 @@ This project transforms raw sales data into an interactive Microsoft Excel dashb
 - Generate business insights
 - Recommend business actions
 
-## 📊 Dashboard Preview
-
-Replace with your screenshot:
-
-`Images/dashboard.png`
-
-```markdown
-![Dashboard](Images/dashboard.png)
-```
-
 ## 📌 KPIs
 
 - Total Sales
@@ -111,6 +101,6 @@ retail-sales-analytics-dashboard/
 
 ---
 
-<p align="center">
+  <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&duration=3000&pause=1000&color=00C853&center=true&vCenter=true&width=700&lines=Developed+with+❤️+by+Shiv;Passionate+About+Data+Analytics;Keep+Learning+Keep+Building+🚀"/>
-</p>
+</p> 
